@@ -30,7 +30,9 @@ you should download git from [Git](https://git-scm.com/) and install it.
 
 * Open directory
 
-@2 `cd {path file}` like `D:\> cd test`
+@2 `cd {path file}` 
+
++ like `D:\> cd test`
 
 ## 3- Start Git
 
@@ -67,4 +69,4 @@ you should download git from [Git](https://git-scm.com/) and install it.
 
 | update ` -u`
 
-for example `git add -a`
++ for example `git add -a`
