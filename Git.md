@@ -1,10 +1,13 @@
-# Git
+﻿# Git
 
 ## Git Structure
 
 * What is Git?
 > Git is like a garden where you have the number of trees, branches and fruits of this garden, and you can even create restrictions that only you have access to this garden or that a few other people have access or even be made available to the public!
-In essence, this garden is your "Account", the trees are "Repositories" and the branches are "branche", and the fruits of the tree are your "Files" and "Projects"...
+
+> In essence, this garden is your "Account", the trees are "Repositories" and the branches are "branche", and the fruits of the tree are your "Files" and "Projects"...
+
+> Gate's capabilities can be used as a team، which means that each member of a team can develop a branch and eventually integrate into the main branch.
 
 ![A](https://github.com/ALTONIBOT/Public/blob/main/img/A.png)
 
@@ -30,6 +33,6 @@ you should install git from [Git Site](https://git-scm.com/) and install it.
 @3 `git init`
 
 * Show Status
-> git status is a command that shows the current state of your Git working directory and staging area. It lets you see which changes have been staged, which haven�t, and which files aren�t being tracked by Git. It also provides helpful information depending on your current situation, such as branch and tracking info, untracked files, merge conflicts, etc...
+> git status is a command that shows the current state of your Git working directory and staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. It also provides helpful information depending on your current situation, such as branch and tracking info, untracked files, merge conflicts, etc...
 
 @R `git status`
