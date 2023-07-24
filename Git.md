@@ -4,8 +4,7 @@
 
 * What is Git?
 > Git is like a garden where you have the number of trees, branches and fruits of this garden, and you can even create restrictions that only you have access to this garden or that a few other people have access or even be made available to the public!
-
-> In essence, this garden is your "Account", the trees are "Repositories" and the branches are "branche", and the fruits of the tree are your "Files" and "Projects"...
+In essence, this garden is your "Account", the trees are "Repositories" and the branches are "branche", and the fruits of the tree are your "Files" and "Projects"...
 
 ![A](https://github.com/ALTONIBOT/Public/blob/main/img/A.png)
 
