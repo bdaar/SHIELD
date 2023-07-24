@@ -5,16 +5,20 @@
 * What is Git?
 > Git is like a garden where you have the number of trees, branches and fruits of this garden, and you can even create restrictions that only you have access to this garden or that a few other people have access or even be made available to the public!
 
+![A](https://github.com/ALTONIBOT/Public/blob/main/img/A.png)
+
 > In essence, this garden is your "Account", the trees are "Repositories" and the branches are "branche", and the fruits of the tree are your "Files" and "Projects"...
+
+![B](https://github.com/ALTONIBOT/Public/blob/main/img/B.png)
 
 > Gate's capabilities can be used as a team، which means that each member of a team can develop a branch and eventually integrate into the main branch.
 
-![A](https://github.com/ALTONIBOT/Public/blob/main/img/A.png)
+
 
 ## 1- Install Git
 you should install git from [Git Site](https://git-scm.com/) and install it.
 
-![B](https://github.com/ALTONIBOT/Public/blob/main/img/B.png)
+![C](https://github.com/ALTONIBOT/Public/blob/main/img/C.png)
 
 ## 2- Create Directory
 > Write this commands with Windows Powershell (Recomended) or Command Prompt
