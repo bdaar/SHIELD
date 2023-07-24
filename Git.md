@@ -17,7 +17,7 @@
 # Starting with Git
 
 ## 1- Install Git
-you should [download git](https://git-scm.com/) from Git and install it.
+you should [Download Git](https://git-scm.com/) from Git and install it.
 
 ![C](https://github.com/ALTONIBOT/Public/blob/main/img/C.png)
 
@@ -36,12 +36,16 @@ you should [download git](https://git-scm.com/) from Git and install it.
 
 ✪ like `D:\> cd test`
 
+![E](https://github.com/ALTONIBOT/Public/blob/main/img/E.png)
+
 ## 3- Start Git
 
 * Initialize Git
 > git init is a command that creates an empty Git repository or reinitializes an existing one. It is one of the first commands you should run when starting a new project with Git. It creates a hidden directory called .git that contains all the information and files required for version control.
 
 @3 `git init`
+
+![F](https://github.com/ALTONIBOT/Public/blob/main/img/F.png)
 
 * Show Status
 > git status is a command that shows the current state of your Git working directory and staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. It also provides helpful information depending on your current situation, such as branch and tracking info, untracked files, merge conflicts, etc...
