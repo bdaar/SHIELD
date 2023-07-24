@@ -1,5 +1,5 @@
-## .:Python Core:.
-# # >>> For better function, try the desired code in another Python file
+# Python Core
+## >>> For better function, try the desired code in another Python file
 
 # Variables
 A = 1 and -3                                  # Integer ..........✔
