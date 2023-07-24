@@ -48,7 +48,7 @@ you should download git from [Git](https://git-scm.com/) and install it.
 
 @R `git status`
 
-* Add Git files to repository
+* Put git files to stage
 > git add is a command that adds new or changed files in your working directory to the Git staging area. The staging area is where you prepare the content for the next commit. You can use git add to select specific files, directories, or even parts of files for staging.
 
 `git add` -switch
@@ -72,3 +72,14 @@ you should download git from [Git](https://git-scm.com/) and install it.
 | update ` -u`
 
 ✪ for example `git add -a`
+
+* Add git files to repository
+> A git commit is a command that records changes to the repository. It creates a snapshot of your files and adds a message that describes what you have changed.
+
+`git commit` -switch
+
+| automatically add all modified files ` -a`
+
+| write a message inline ` -m`
+
+| interactively select which changes to include ` -p`
