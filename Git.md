@@ -17,6 +17,6 @@ you should install git from [Git Site](https://git-scm.com/) and install it.
 ## 3- Start Git
 
 * Initialize Git
-+ git init is a command that creates an empty Git repository or reinitializes an existing one. It is one of the first commands you should run when starting a new project with Git. It creates a hidden directory called .git that contains all the information and files required for version control.
+> git init is a command that creates an empty Git repository or reinitializes an existing one. It is one of the first commands you should run when starting a new project with Git. It creates a hidden directory called .git that contains all the information and files required for version control.
 
 Drive:\> `git init`
