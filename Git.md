@@ -49,12 +49,7 @@ you should download git from [Git](https://git-scm.com/) and install it.
 
 `git add`
 Switch:
-`{file name}`
-`-a` all
-`-v` verbose
-`-n` dry-run
-`-f` force
-`-i` interactive
+`{file name}` specied file name | `-a` all |`-v` verbose | `-n` dry-run | `-f` force | `-i` interactive
 `-p` patch
 `-e` edit
 `-u` update
