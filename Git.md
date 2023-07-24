@@ -1,4 +1,11 @@
-# Git Commands
+# Git
+
+## Git Structure
+
+* What is Git?
+> Git is like a garden where you have the number of trees, branches and fruits of this garden, and you can even create restrictions that only you have access to this garden or that a few other people have access or even be made available to the public!
+
+> In essence, this garden is your account, the trees are repositories and the branches are branches, and the fruits of the tree are your files and projects.
 
 ## 1- Install Git
 you should install git from [Git Site](https://git-scm.com/) and install it.
