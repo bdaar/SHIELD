@@ -22,6 +22,6 @@ you should install git from [Git Site](https://git-scm.com/) and install it.
 @3 `git init`
 
 * Show Status
-* > git status is a command that shows the current state of your Git working directory and staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. It also provides helpful information depending on your current situation, such as branch and tracking info, untracked files, merge conflicts, etc...
+> git status is a command that shows the current state of your Git working directory and staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. It also provides helpful information depending on your current situation, such as branch and tracking info, untracked files, merge conflicts, etc...
 
 @R `git status`
