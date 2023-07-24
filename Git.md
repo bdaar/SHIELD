@@ -28,7 +28,7 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 * Create directory
 
-@1 `{your path}:\> mkdir {path name}`
+@1 `{your path}:\> mkdir {directory name}`
 
 ✪ for example `D:\> mkdir test`
 
