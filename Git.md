@@ -17,9 +17,11 @@
 # Starting with Git
 
 ## 1- Install Git
-you should install git from [Git Site](https://git-scm.com/) and install it.
+you should download git from [Git](https://git-scm.com/) and install it.
 
 ![C](https://github.com/ALTONIBOT/Public/blob/main/img/C.png)
+
+![D](https://github.com/ALTONIBOT/Public/blob/main/img/D.png)
 
 ## 2- Create Directory
 > Write this commands with Windows Powershell (Recomended) or Command Prompt
