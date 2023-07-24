@@ -47,6 +47,24 @@ you should download git from [Git](https://git-scm.com/) and install it.
 * Add Git files to repository
 > git add is a command that adds new or changed files in your working directory to the Git staging area. The staging area is where you prepare the content for the next commit. You can use git add to select specific files, directories, or even parts of files for staging.
 
-`git add` > `{file name}` specied file name | all ` -a` | verbose ` -v` | dry-run ` -n` | force ` -f` | interactive ` -i` | patch ` -p` | edit ` -e` | update ` -u`
+● `git add`
+|
+| `{file name}` specied file name
+|
+| all ` -a`
+|
+| verbose ` -v`
+|
+| dry-run ` -n`
+|
+| force ` -f`
+|
+| interactive ` -i`
+|
+| patch ` -p`
+|
+| edit ` -e`
+|
+| update ` -u`
 
 for example `git add -a`
