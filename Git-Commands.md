@@ -1,11 +1,16 @@
 # Git Commands
 
-## 1- Create Directory
+## 1- Install Git
+you should install git from [Git](https://git-scm.com/) and install it.
+
+![A](https://github.com/ALTONIBOT/Public/blob/main/media/A.jpg)
+
+## N- Create Directory
 Write this commands with Windows Powershell (Recomended)
 
-![01](https://github.com/ALTONIBOT/Public/blob/main/media/A.mp4)
+`{your path}:\> mkdir {path name}` For example `D:\> mkdir test`
 
-`{your path}:\> mkdir {path name}` For example D:\> mkdir test
+- Open directory
 
-open directory
-`cd {path file}` like D:\> cd test
+`cd {path file}` like `D:\> cd test`
+![01](https://github.com/)
