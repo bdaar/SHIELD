@@ -3,7 +3,7 @@
 ## 1- Install Git
 you should install git from [Git](https://git-scm.com/) and install it.
 
-![A](https://github.com/ALTONIBOT/Public/blob/main/media/A.png)
+![A](https://github.com/ALTONIBOT/Public/blob/main/img/A.png)
 
 ## N- Create Directory
 Write this commands with Windows Powershell (Recomended)
