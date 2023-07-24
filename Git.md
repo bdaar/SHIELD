@@ -23,8 +23,10 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 ![D](https://github.com/ALTONIBOT/Public/blob/main/img/D.png)
 
-## 2- Create Directory
+## 2- Directory
 > Write this commands with Windows Powershell (Recomended) or Command Prompt
+
+* Create directory
 
 @1 `{your path}:\> mkdir {path name}`
 
