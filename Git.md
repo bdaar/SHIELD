@@ -49,17 +49,19 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 ![F](https://github.com/ALTONIBOT/Public/blob/main/img/F.png)
 
+![G](https://github.com/ALTONIBOT/Public/blob/main/img/G.png)
+
 * Show Status
 > git status is a command that shows the current state of your Git working directory and staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. It also provides helpful information depending on your current situation, such as branch and tracking info, untracked files, merge conflicts, etc...
 
 @R `git status`
 
-![G](https://github.com/ALTONIBOT/Public/blob/main/img/G.png)
+![H](https://github.com/ALTONIBOT/Public/blob/main/img/H.png)
 
 * Put git files to stage
 > git add is a command that adds new or changed files in your working directory to the Git staging area. The staging area is where you prepare the content for the next commit. You can use git add to select specific files, directories, or even parts of files for staging.
 
-![H](https://github.com/ALTONIBOT/Public/blob/main/img/H.png)
+![I](https://github.com/ALTONIBOT/Public/blob/main/img/I.png)
 
 `git add` -switch
 
@@ -82,8 +84,6 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 | update ` -u`
 
 ✪ for example `git add -a`
-
-![I](https://github.com/ALTONIBOT/Public/blob/main/img/I.png)
 
 * Add git files to repository
 > A git commit is a command that records changes to the repository. It creates a snapshot of your files and adds a message that describes what you have changed.
