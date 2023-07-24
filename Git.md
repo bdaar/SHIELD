@@ -7,10 +7,12 @@
 
 > In essence, this garden is your "Account", the trees are "Repositories" and the branches are "branche", and the fruits of the tree are your "Files" and "Projects"...
 
+![A](https://github.com/ALTONIBOT/Public/blob/main/img/A.png)
+
 ## 1- Install Git
 you should install git from [Git Site](https://git-scm.com/) and install it.
 
-![A](https://github.com/ALTONIBOT/Public/blob/main/img/A.png)
+![B](https://github.com/ALTONIBOT/Public/blob/main/img/B.png)
 
 ## 2- Create Directory
 > Write this commands with Windows Powershell (Recomended) or Command Prompt
