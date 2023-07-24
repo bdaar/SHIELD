@@ -52,6 +52,8 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 @R `git status`
 
+![G](https://github.com/ALTONIBOT/Public/blob/main/img/G.png)
+
 * Put git files to stage
 > git add is a command that adds new or changed files in your working directory to the Git staging area. The staging area is where you prepare the content for the next commit. You can use git add to select specific files, directories, or even parts of files for staging.
 
