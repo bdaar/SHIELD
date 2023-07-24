@@ -1,6 +1,0 @@
-# match a: // switch
-# case:
-# try:
-# except ValueError: // catch
-# a = "sTaRt"
-# print(a.split()) // Result: ["sTaRt"]

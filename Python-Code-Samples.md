@@ -1,4 +1,4 @@
-# .:Python Core:.
+## .:Python Core:.
 # # >>> For better function, try the desired code in another Python file
 
 # Variables
@@ -98,5 +98,16 @@ while x < 10:
         print(str(x) + " is Even")
     else:
         print(str(x) + " is Odd")
+
+
+
+
+
+match a: // switch
+case:
+try:
+except ValueError: // catch
+a = "sTaRt"
+print(a.split()) // Result: ["sTaRt"]
 
     x += 1 # or x = x + 1
