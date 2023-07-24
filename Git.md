@@ -17,7 +17,7 @@
 # Starting with Git
 
 ## 1- Install Git
-you should download git from [Git](https://git-scm.com/) and install it.
+you should [download git](https://git-scm.com/) from Git and install it.
 
 ![C](https://github.com/ALTONIBOT/Public/blob/main/img/C.png)
 
