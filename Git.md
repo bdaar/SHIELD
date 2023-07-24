@@ -14,6 +14,7 @@
 > Gate's capabilities can be used as a team، which means that each member of a team can develop a branch and eventually integrate into the main branch.
 
 
+# Starting with Git
 
 ## 1- Install Git
 you should install git from [Git Site](https://git-scm.com/) and install it.
