@@ -26,13 +26,15 @@ you should download git from [Git](https://git-scm.com/) and install it.
 ## 2- Create Directory
 > Write this commands with Windows Powershell (Recomended) or Command Prompt
 
-@1 `{your path}:\> mkdir {path name}` for example `D:\> mkdir test`
+@1 `{your path}:\> mkdir {path name}`
+
+✪ for example `D:\> mkdir test`
 
 * Open directory
 
 @2 `cd {path file}` 
 
-+ like `D:\> cd test`
+✪ like `D:\> cd test`
 
 ## 3- Start Git
 
@@ -69,4 +71,4 @@ you should download git from [Git](https://git-scm.com/) and install it.
 
 | update ` -u`
 
-+ for example `git add -a`
+✪ for example `git add -a`
