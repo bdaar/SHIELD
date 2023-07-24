@@ -1,12 +1,11 @@
 # Git Commands
 
-## 1- Create directory for my files
-  Write this commands with Windows Powershell (Recomended)
+## 1- Create Directory
+Write this commands with Windows Powershell (Recomended)
 
-  ![Image](https://github.com/ALTONIBOT/Public/blob/main/img/01.png)
+![01](https://github.com/ALTONIBOT/Public/blob/main/media/A.mp4)
 
-  `{your path}:\> mkdir {path name}` For example D:\> mkdir test
+`{your path}:\> mkdir {path name}` For example D:\> mkdir test
 
-  ### Open directory
-    `cd {path file}` like D:\> cd test
-[H](https://github.com/)
+open directory
+`cd {path file}` like D:\> cd test
