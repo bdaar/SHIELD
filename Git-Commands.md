@@ -1,7 +1,7 @@
 # Git Commands
 
 ## 1- Install Git
-you should install git from [Git](https://git-scm.com/) and install it.
+you should install git from [Git Site](https://git-scm.com/) and install it.
 
 ![A](https://github.com/ALTONIBOT/Public/blob/main/img/A.png)
 
