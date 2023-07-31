@@ -51,10 +51,23 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 ![G](https://github.com/ALTONIBOT/Public/blob/main/img/G.png)
 
-* Show Status
+* Show informations
 > git status is a command that shows the current state of your Git working directory and staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. It also provides helpful information depending on your current situation, such as branch and tracking info, untracked files, merge conflicts, etc...
 
 @R `git status`
+
+> According to the documentation1, git log is a command that shows the commit logs of a Git repository. It can be used to list the commits that are reachable from a given revision or branch, and to filter or format the output in various ways.
+
+@R `git log` -{switch}
+
+| `–oneline` show each commit on a single line with a shortened commit hash and the first line of the commit message.
+
+| `–decorate` show the branch or tag names of each commit2.
+
+| `–stat` show the number of insertions and deletions for each file changed by each commit.
+
+| `-p` or `–patch` show the diff for each commit, i.e. the changes made to each file by each commit2.
+
 
 ![H](https://github.com/ALTONIBOT/Public/blob/main/img/H.png)
 
@@ -63,7 +76,7 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 ![I](https://github.com/ALTONIBOT/Public/blob/main/img/I.png)
 
-`git add` -switch
+@R `git add` -{switch}
 
 | `{file name}` specied file name
 
@@ -88,7 +101,7 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 * Add git files to repository
 > A git commit is a command that records changes to the repository. It creates a snapshot of your files and adds a message that describes what you have changed.
 
-`git commit` -switch
+@R `git commit` -{switch}
 
 | automatically add all modified files ` -a`
 
