@@ -65,6 +65,7 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 | `-p` or `–patch` show the diff for each commit, i.e. the changes made to each file by each commit
 
+@R `git diff` Show the diff between the staging area and the working tree
 
 * Put git files to stage
 > git add is a command that adds new or changed files in your working directory to the Git staging area. The staging area is where you prepare the content for the next commit. You can use git add to select specific files, directories, or even parts of files for staging.
@@ -82,11 +83,19 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 | ` -v` git add -v is a command that adds new or changed files in your working directory to the Git staging area, and also shows you what changes are being staged. The -v option stands for verbose, and it makes git add print a summary of the changes for each file that is added
 
-| dry-run ` -n`
+| ` -n` git add -n is a command that performs a dry run of git add. It shows what files would be added to the staging area, but does not actually add them. It is useful for checking what changes you have made before committing them
 
-| force ` -f`
+| ` -f` The command git add -f is used to force adding a file or a directory to the Git staging area, even if it is ignored by the ~.gitignore~ file. This can be useful if you want to override the default ignore rules for some files that you need to track in your repository
 
-| interactive ` -i`
+✪ like `git add -f {path\file name}`
+
+✪ like `git add -f bar/` Force add the entire directory ~bar/~ and its contents to the staging area, even if they are listed in the ~.gitignore~ file
+
+| ` -i` The command git add -i is used to interactively stage changes to the Git staging area. This means that you can choose which files or parts of files you want to include in your next commit, without having to use separate commands for each file
+
+✪ like `git add -i {path\file name}` Enter the interactive mode for only the file {path\file name}.
+
+✪ like `git add -i bar/` Enter the interactive mode for only the directory bar/ and its contents.
 
 | patch ` -p`
 
@@ -94,7 +103,7 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 | update ` -u`
 
-✪ for example `git add -a`
+@R `git revert`
 
 * Add git files to repository
 > A git commit is a command that records changes to the repository. It creates a snapshot of your files and adds a message that describes what you have changed.
