@@ -39,6 +39,9 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 ✪ like `D:\> cd test`
 
 ## 3- Start Git
+> @Number(1,2,3,...): Steps that are done step by step and usually after doing it once, there is no need to do it again in a file.
+
+> @R: It is usually done routinely.
 
 * Initialize Git
 > git init is a command that creates an empty Git repository or reinitializes an existing one. It is one of the first commands you should run when starting a new project with Git. It creates a hidden directory called .git that contains all the information and files required for version control.
