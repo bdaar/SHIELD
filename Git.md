@@ -62,7 +62,7 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 | `–oneline` show each commit on a single line with a shortened commit hash and the first line of the commit message.
 
-| `–decorate` show the branch or tag names of each commit2.
+| `–decorate` show the branch or tag names of each commit.
 
 | `–stat` show the number of insertions and deletions for each file changed by each commit.
 
@@ -78,9 +78,13 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 @R `git add` -{switch}
 
-| `{file name}` specied file name
+| `{path\file name}` stage a specific directory or file.
 
-| all ` -a`
+| ` -A` stage all changes in the entire repository
+
+✪ like `git add -A {path}`  stage all changes in a specific directory or file.
+
+✪ like `git add -A *.html`  stage all changes in files that have a .html extension.
 
 | verbose ` -v`
 
