@@ -38,18 +38,12 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 ✪ like `D:\> cd test`
 
-![E](https://github.com/ALTONIBOT/Public/blob/main/img/E.png)
-
 ## 3- Start Git
 
 * Initialize Git
 > git init is a command that creates an empty Git repository or reinitializes an existing one. It is one of the first commands you should run when starting a new project with Git. It creates a hidden directory called .git that contains all the information and files required for version control.
 
 @3 `git init`
-
-![F](https://github.com/ALTONIBOT/Public/blob/main/img/F.png)
-
-![G](https://github.com/ALTONIBOT/Public/blob/main/img/G.png)
 
 * Show informations
 > git status is a command that shows the current state of your Git working directory and staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. It also provides helpful information depending on your current situation, such as branch and tracking info, untracked files, merge conflicts, etc...
@@ -60,31 +54,28 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 @R `git log` -{switch}
 
-| `–oneline` show each commit on a single line with a shortened commit hash and the first line of the commit message.
+| `–oneline` show each commit on a single line with a shortened commit hash and the first line of the commit message
 
-| `–decorate` show the branch or tag names of each commit.
+| `–decorate` show the branch or tag names of each commit
 
-| `–stat` show the number of insertions and deletions for each file changed by each commit.
+| `–stat` show the number of insertions and deletions for each file changed by each commit
 
-| `-p` or `–patch` show the diff for each commit, i.e. the changes made to each file by each commit2.
+| `-p` or `–patch` show the diff for each commit, i.e. the changes made to each file by each commit
 
-
-![H](https://github.com/ALTONIBOT/Public/blob/main/img/H.png)
 
 * Put git files to stage
 > git add is a command that adds new or changed files in your working directory to the Git staging area. The staging area is where you prepare the content for the next commit. You can use git add to select specific files, directories, or even parts of files for staging.
 
-![I](https://github.com/ALTONIBOT/Public/blob/main/img/I.png)
 
 @R `git add` -{switch}
 
-| `{path\file name}` stage a specific directory or file.
+| `{path\file name}` stage a specific directory or file
 
 | ` -A` stage all changes in the entire repository
 
-✪ like `git add -A {path}`  stage all changes in a specific directory or file.
+✪ like `git add -A {path}`  stage all changes in a specific directory or file
 
-✪ like `git add -A *.html`  stage all changes in files that have a .html extension.
+✪ like `git add -A *.html`  stage all changes in files that have a .html extension
 
 | verbose ` -v`
 
