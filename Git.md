@@ -77,7 +77,7 @@ you should [Download Git](https://git-scm.com/) from Git and install it.
 
 ✪ like `git add -A *.html`  stage all changes in files that have a .html extension
 
-| verbose ` -v`
+| ` -v` git add -v is a command that adds new or changed files in your working directory to the Git staging area, and also shows you what changes are being staged. The -v option stands for verbose, and it makes git add print a summary of the changes for each file that is added
 
 | dry-run ` -n`
 
