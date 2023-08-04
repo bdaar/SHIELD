@@ -19,10 +19,6 @@
 ## 1- Install Git
 you should [Download Git](https://git-scm.com/) from Git and install it.
 
-![C](https://github.com/ALTONIBOT/Public/blob/main/img/C.png)
-
-![D](https://github.com/ALTONIBOT/Public/blob/main/img/D.png)
-
 ## 2- Directory
 > Write this commands with Windows Powershell (Recomended) or Command Prompt
 
