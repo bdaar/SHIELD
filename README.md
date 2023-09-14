@@ -55,6 +55,12 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 ---
 
+## App version:
+
+`1.0.0.0` stable
+
+---
+
 ## Software requirements:
 
 [.NET Framework 4.8 and higher](https://dotnet.microsoft.com/en-us/download)
