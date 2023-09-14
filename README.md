@@ -20,6 +20,10 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 * Step 3: open zip and start setup file:
 
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/1.png)
+
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/2.png)
+
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/3.png)
+
+> install done ✔
 
