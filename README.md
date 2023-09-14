@@ -9,9 +9,7 @@
 
 * First, you have to turn off your antivirus so that we can download the file (this program has been tested and there is no risk 😊). For example, we turn off Windows Defender:
 
-`Windows Settings (WinKey + i) > Update & Security > Windows Security > Open Windows Security > Virus & threat protection > Manage settings`
-
-and turn off `Real-time protection`
+Open `Windows Security > Virus & threat protection > Manage settings` and turn off `Real-time protection`
 
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/0.png)
 
