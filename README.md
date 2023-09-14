@@ -7,5 +7,5 @@
 
 ## How to install?
 
-* First, download the file from [here] (https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/Setup.zip) .
+* First, download the file from [here](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/Setup.zip) .
 
