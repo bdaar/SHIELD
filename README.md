@@ -39,7 +39,24 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 * Go to [Windows 10 or 11] `Windows Settings > Apps > %click% E.B > %press% Uninstall`.
 
-
+![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/6.png)
 
 * Go to [Windows 8 or oldest] `Control Panel > %view by category% Programs > Programs and Features > %double click% E.B > %check remove% OK`.
 
+![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/7.png)
+
+![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/8.png)
+
+![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/9.png)
+
+![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/10.png)
+
+> uninstall done ✔
+
+## Software requirements:
+
+[.NET Framework 4.8 and higher](https://dotnet.microsoft.com/en-us/download)
+
+## Support:
+
+[Bot](https://t.me/)
