@@ -33,5 +33,5 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/5.png)
 
---------------------------------------------------------------------------------
+---
 
