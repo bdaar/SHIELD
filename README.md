@@ -13,5 +13,7 @@
 
 and turn off `Real-time protection`
 
+![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/0.png)
+
 > download the file from [here](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/Setup.zip) .
 
