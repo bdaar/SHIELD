@@ -69,4 +69,4 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 ## Support:
 
-[Bot](https://t.me/)
+[Bot](https://t.me/Embargo_Breaker_SupportBot)
