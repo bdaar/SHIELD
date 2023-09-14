@@ -7,7 +7,7 @@
 
 ## How to install?
 
-* Step 1: you have to turn off your antivirus so that we can download the file (this program has been tested and there is no risk 😊). For example, we turn off Windows Defender:
+* Step 1: you have to turn off DATA and your ANTIVIRUS so that we can download the file (this program has been tested and there is no risk 😊). For example, we turn off Windows Defender:
 
 Open `Windows Security > Virus & threat protection > Manage settings` and turn off `Real-time protection`
 
@@ -34,4 +34,12 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/5.png)
 
 ---
+
+## How to uninstall?
+
+* Go to [Windows 10 or 11] `Windows Settings > Apps > %click% E.B > %press% Uninstall`.
+
+
+
+* Go to [Windows 8 or oldest] `Control Panel > %view by category% Programs > Programs and Features > %double click% E.B > %check remove% OK`.
 
