@@ -25,5 +25,13 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/3.png)
 
+![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/4.png)
+
 > install done ✔
+
+* Select a server and click `Connection Request`
+
+![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/5.png)
+
+--------------------------------------------------------------------------------
 
