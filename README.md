@@ -11,7 +11,7 @@
 
 Open `Windows Security > Virus & threat protection > Manage settings` and turn off `Real-time protection`
 
-![img](https://photos.onedrive.com/58c0dc94-4cd7-488d-b92a-4fba8645bd98)
+![img](https://1drv.ms/i/s!AsHE808G_RHegy5OiHtuGjdPPNFb)
 
 * Step 2: download file...
 
