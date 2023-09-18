@@ -5,6 +5,8 @@
 
 > ❗ Note: This service may only be available for Iranian IPs...!
 
+---
+
 * List Help
 
 > [🏃‍♂️ How To Start?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-start)
@@ -20,6 +22,8 @@
 > [🧰 Software Requirements](https://github.com/ALTONIBOT/Embargo-Breaker#software-requirements)
 
 > [👨‍💻 Support](https://github.com/ALTONIBOT/Embargo-Breaker#software-requirements)
+
+---
 
 ## How to start?
 
@@ -44,6 +48,8 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/UI-UX/hint-img/4.png)
 
 > install done ✔
+
+---
 
 ## How to use?
 
