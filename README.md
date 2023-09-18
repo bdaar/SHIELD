@@ -3,14 +3,15 @@
 * What`s this?
 > This program opens banned services in ❤IRAN, programmers and gamers need this free service and we will solve this need 😉.
 
+> ❗ Note: This service may only be available for Iranian IPs...!
+
 * List Help
 
-> [How to install?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-install)
+> [How To Install?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-install)
 
-> [How to install?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-install)
+> [Download App](https://1drv.ms/u/s!AsHE808G_RHegysSI2VHdDMpNQQZ)
 
-
-> ❗ Note: This service may only be available for Iranian IPs...!
+> [
 
 ## How to install?
 
@@ -35,6 +36,8 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/UI-UX/hint-img/4.png)
 
 > install done ✔
+
+## How to use?
 
 * Select a server and click `Connection Request`
 
