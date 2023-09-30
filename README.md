@@ -3,7 +3,7 @@
 * What`s this?
 > This program opens banned services in ❤IRAN, programmers and gamers need this free service and we will solve this need 😉.
 
-> ❗ Note: This service may only be available for Iranian IPs...!
+> ❗ Note: This service may only be available for Iran IPs...!
 
 ---
 
@@ -26,6 +26,8 @@
 ---
 
 ## How to start?
+
+> See how to start in [VIDEO](https://1drv.ms/v/s!AsHE808G_RHeg0QyMQ4ndLoXVmXg)
 
 * Step 1: you have to turn off Antivirus so that we can download the file (this program has been tested and there is no risk 😊). For example, we turn off Windows Defender:
 
