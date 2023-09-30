@@ -1,6 +1,0 @@
-Group: https://join.skype.com/szIAJCvBNegx
-
-Python
-VS Code: Extension Python
-EB: https://github.com/ALTONIBOT/Embargo-Breaker/#embargo-breaker
-Skype
