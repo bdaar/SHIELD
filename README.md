@@ -9,7 +9,7 @@
 
 * List Help
 
-> [🏃‍♂️ How To Start?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-start)
+> [🏃‍♂️ How To Install?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-start)
 
 > [📥 Download App](https://1drv.ms/u/s!AsHE808G_RHegysSI2VHdDMpNQQZ)
 
@@ -27,7 +27,7 @@
 
 ## How to start?
 
-> See how to start in [VIDEO](https://1drv.ms/v/s!AsHE808G_RHeg0QyMQ4ndLoXVmXg)
+> See how to install in [VIDEO](https://1drv.ms/v/s!AsHE808G_RHeg0Z8l-jNWHVhDUXx)
 
 * Step 1: you have to turn off Antivirus so that we can download the file (this program has been tested and there is no risk 😊). For example, we turn off Windows Defender:
 
@@ -63,11 +63,13 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 ## How to uninstall?
 
+> See how to uninstall [Windows 10 or 11] in [VIDEO](https://1drv.ms/v/s!AsHE808G_RHeg0XlQaaq9nr_z7hE)
+
 * Go to [Windows 10 or 11] `Windows Settings > Apps > %click% E.B > %press% Uninstall`.
 
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/UI-UX/hint-img/6.png)
 
-* Go to [Windows 8 or oldest] `Control Panel > %view by category% Programs > Programs and Features > %double click% E.B > %check remove% OK`.
+* Go to [Windows 8 or older] `Control Panel > %view by category% Programs > Programs and Features > %double click% E.B > %check remove% OK`.
 
 ![img](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/UI-UX/hint-img/7.png)
 
