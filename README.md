@@ -21,8 +21,6 @@
 
 > [🧰 Software Requirements](https://github.com/ALTONIBOT/Embargo-Breaker#software-requirements)
 
-> [👨‍💻 Support](https://github.com/ALTONIBOT/Embargo-Breaker#software-requirements)
-
 ---
 
 ## How to start?
@@ -92,9 +90,3 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 ## Software requirements:
 
 [.NET Framework 4.8 and higher](https://dotnet.microsoft.com/en-us/download)
-
----
-
-## Support:
-
-[Bot](https://t.me/Embargo_Breaker_SupportBot)
