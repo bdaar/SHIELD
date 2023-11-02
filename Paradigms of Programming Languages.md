@@ -89,4 +89,4 @@ C – یک زبان برنامه نویسی همه منظوره است که در
 برنامه نویسی متمایز، برنامه ها را طوری ساختار می دهد که بتوان آنها را در سرتاسر، معمولاً از طریق تمایز خودکار، متمایز کرد.
 
 
-# ![منبع](https://en.m.wikipedia.org/wiki/Programming_paradigm)
+# [منبع](https://en.m.wikipedia.org/wiki/Programming_paradigm)
