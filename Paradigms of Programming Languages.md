@@ -15,9 +15,13 @@
 
 > رویه ای که دستورالعمل ها را به رویه ها گروه بندی می کند
 
+* Basic | C | FORTRAN | JAVA | Pascal | Ada | Algol | Assembly | bash | COBOL | Lisp | Lua | MATLAB | Perl | R | Visual Basic
+
 ### object-oriented
 
 > شی گرا که دستورالعمل ها را با بخشی از حالتی که روی آن عمل می کنند گروه بندی می کند
+
+* Python | JAVA | C++ | C# | Ruby | Swift | Kotlin | PHP | TypeScript | Objective-C | Scala
 
 ## Declarative
 
@@ -27,13 +31,19 @@
 
 > تابعی که در آن نتیجه مورد نظر به عنوان مقدار یک سری از برنامه های کاربردی اعلام می شود
 
+* Clojure | Elixir | Haskell | Scala | Pyrhon | Elm | F# | Erlang | PHP | JavaScript | Java | C++ | Idris | Scheme | GO | Rust | Kotlin | C# | TypeScript | ReasonML | PureScript | Swift
+
 ### logic
 
 > منطقی که در آن نتیجه مطلوب به عنوان پاسخ به سؤالی در مورد سیستمی از حقایق و قوانین اعلام می شود
 
+* Prolog | Datalog | ASP | Absys | Alma-0 | CycL | Epilog
+
 ### reactive
 
 > واکنشی که در آن نتیجه مورد نظر با جریان های داده و انتشار تغییرات اعلام می شود
+
+* Elixir | Haskell | Swift
 
 ---
 
