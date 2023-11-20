@@ -84,6 +84,7 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 ## Latest app version:
 
 `1.1.0.0` stable ✔
+
 `1.0.0.0` stable
 
 ---
