@@ -83,7 +83,7 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 ## Latest app version:
 
-`11.30.2023` ✔
+~ `11.30.2023`
 
 ---
 
