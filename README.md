@@ -21,6 +21,9 @@
 
 > [🧰 Software Requirements](https://github.com/ALTONIBOT/Embargo-Breaker#software-requirements)
 
+> [🧑🏻‍💻 Support](
+https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/README.md#support)
+
 ---
 
 ## How to start?
