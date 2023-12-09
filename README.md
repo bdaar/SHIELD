@@ -9,17 +9,17 @@
 
 * List Help
 
-> [🏃‍♂️ How To Install?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-start)
+> [🏃‍♂️ How To Install?](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/README.md#how-to-start)
 
 > [📥 Download App](https://1drv.ms/u/s!AsHE808G_RHeg0sPJsL4HJ_qLMnI)
 
-> [🛠 How To Use?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-use)
+> [🛠 How To Use?](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/README.md#how-to-use)
 
-> [🗑 How To Uninstall?](https://github.com/ALTONIBOT/Embargo-Breaker#how-to-uninstall)
+> [🗑 How To Uninstall?](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/README.md#how-to-uninstall)
 
-> [🆕 Latest App Version](https://github.com/ALTONIBOT/Embargo-Breaker#latest-app-version)
+> [🆕 Latest App Version](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/README.md#latest-app-version)
 
-> [🧰 Software Requirements](https://github.com/ALTONIBOT/Embargo-Breaker#software-requirements)
+> [🧰 Software Requirements](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/README.md#latest-app-version)
 
 ---
 
