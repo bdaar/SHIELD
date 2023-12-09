@@ -89,4 +89,7 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 ## Software requirements:
 
-[.NET Framework 4.8 and higher](https://dotnet.microsoft.com/en-us/download)
+[.NET SDK 8.0 or higher](
+https://dotnet.microsoft.com/en-us/download)
+
+[.NET Framework 4.8 or higher](https://dotnet.microsoft.com/en-us/download)
