@@ -21,6 +21,9 @@
 
 > [🧰 Software Requirements](https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/README.md#latest-app-version)
 
+> [🧑🏻‍💻 Support](
+https://github.com/ALTONIBOT/Embargo-Breaker/blob/main/README.md#support)
+
 ---
 
 ## How to start?
@@ -83,7 +86,9 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 
 ## Latest app version:
 
-~ `11.30.2023`
+~ `11.30.2023` Stable (Available)
+
+~ `2024` Coming Soon...
 
 ---
 
@@ -93,3 +98,9 @@ Open `Windows Security > Virus & threat protection > Manage settings` and turn o
 https://dotnet.microsoft.com/en-us/download)
 
 [.NET Framework 4.8 or higher](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+
+---
+
+## Support:
+
+[Telegram](https://t.me/Anti_SanctionBot/)
