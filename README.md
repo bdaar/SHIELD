@@ -103,4 +103,4 @@ https://dotnet.microsoft.com/en-us/download)
 
 ## Support:
 
-[Telegram](https://t.me/Anti_SanctionBot/)
+💬 [Telegram](https://t.me/Anti_SanctionBot/)
