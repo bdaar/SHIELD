@@ -9,19 +9,19 @@
 
 * List Help
 
-> [🏃‍♂️ How To Install?](https://github.com/ALTONIBOT/Anti-Sanction/tree/main?tab=readme-ov-file#how-to-start)
+> [🏃‍♂️ How To Install?](https://github.com/ALTONIBOT/Anti-Sanction/blob/main/README.md#how-to-start)
 
 > [📥 Download App](https://1drv.ms/u/s!AsHE808G_RHeg0sPJsL4HJ_qLMnI)
 
-> [🛠 How To Use?](https://github.com/ALTONIBOT/Anti-Sanction/tree/main?tab=readme-ov-file#how-to-use)
+> [🛠 How To Use?](https://github.com/ALTONIBOT/Anti-Sanction/blob/main/README.md#how-to-use)
 
-> [🗑 How To Uninstall?](https://github.com/ALTONIBOT/Anti-Sanction/tree/main?tab=readme-ov-file#how-to-uninstall)
+> [🗑 How To Uninstall?](https://github.com/ALTONIBOT/Anti-Sanction/blob/main/README.md#how-to-uninstall)
 
-> [🆕 Latest App Version](https://github.com/ALTONIBOT/Anti-Sanction/tree/main?tab=readme-ov-file#latest-app-version)
+> [🆕 Latest App Version](https://github.com/ALTONIBOT/Anti-Sanction/blob/main/README.md#latest-app-version)
 
 > [🧰 Software Requirements]()
 
-> [🧑🏻‍💻 Support](https://github.com/ALTONIBOT/Anti-Sanction/tree/main?tab=readme-ov-file#how-to-startsupport)
+> [🧑🏻‍💻 Support](https://github.com/ALTONIBOT/Anti-Sanction/blob/main/README.md#how-to-startsupport)
 
 ---
 
