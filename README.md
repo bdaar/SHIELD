@@ -19,7 +19,7 @@
 
 > [🆕 Latest App Version](https://github.com/ALTONIBOT/Anti-Sanction/blob/main/README.md#latest-app-version)
 
-> [🧰 Software Requirements]()
+> [🧰 Software Requirements](https://github.com/ALTONIBOT/Anti-Sanction/blob/main/README.md#software-requirements)
 
 > [🧑🏻‍💻 Support](https://github.com/ALTONIBOT/Anti-Sanction/blob/main/README.md#how-to-startsupport)
 
