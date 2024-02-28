@@ -2,4 +2,4 @@
 
 + Due to the update and redesign of the program, we are suspended.
 
-``` Thank's for your patience ( [b̴d̴aar](https://bgaah.ir) 2024 JAN). ```
++++ Thank's for your patience ( [b̴d̴aar](https://bgaah.ir) 2024 JAN).
