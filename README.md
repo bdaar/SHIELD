@@ -3,4 +3,4 @@
 
 #### Due to the update and redesign of the program, we are suspended.
 
-+ Thank's for your patience ( [bdaar](https://bgaah.ir) 2024 JAN).
++ Thank's for your patience ( [bdaar](https://b-daar.ir) 2024 JAN).
